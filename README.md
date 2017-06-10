@@ -12,7 +12,11 @@ This is a web tool for creating work-flows using CrowdWon language as a prototyp
 *  Custom Inputs.
 *  Validations of a Crowdwon diagram (some remaining).
 *  Specify data input and output.
-	
+
+
+## How it looks like?
+![img](http://i.imgur.com/aukkLQq.png)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
