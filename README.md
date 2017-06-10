@@ -3,7 +3,7 @@ This is a web tool for creating work-flows using CrowdWon language as a prototyp
 *  JointJS for the diagramming.
 *  Bootstrap to do the frontend.
 
-##What do we allow?
+## What do we allow?
 *  Drag and drop
 *  Importing and exporting a graph (importing a bit buggy).
 *  Customizing links as you can do in Crowdwon.
