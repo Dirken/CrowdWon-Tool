@@ -16,6 +16,8 @@ This is a web tool for creating work-flows using CrowdWon language as a prototyp
 
 ## How it looks like?
 ![img](http://i.imgur.com/aukkLQq.png)
+![img](http://i.imgur.com/TaDJI9W.png)
+
 
 ## License
 
